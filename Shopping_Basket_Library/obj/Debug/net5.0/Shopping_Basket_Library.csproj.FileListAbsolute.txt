@@ -1,0 +1,12 @@
+C:\Users\Marko\source\repos\Shopping_Basket\Shopping_Basket_Library\bin\Debug\net5.0\Shopping_Basket_Library.deps.json
+C:\Users\Marko\source\repos\Shopping_Basket\Shopping_Basket_Library\bin\Debug\net5.0\Shopping_Basket_Library.dll
+C:\Users\Marko\source\repos\Shopping_Basket\Shopping_Basket_Library\bin\Debug\net5.0\ref\Shopping_Basket_Library.dll
+C:\Users\Marko\source\repos\Shopping_Basket\Shopping_Basket_Library\bin\Debug\net5.0\Shopping_Basket_Library.pdb
+C:\Users\Marko\source\repos\Shopping_Basket\Shopping_Basket_Library\obj\Debug\net5.0\Shopping_Basket_Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marko\source\repos\Shopping_Basket\Shopping_Basket_Library\obj\Debug\net5.0\Shopping_Basket_Library.AssemblyInfoInputs.cache
+C:\Users\Marko\source\repos\Shopping_Basket\Shopping_Basket_Library\obj\Debug\net5.0\Shopping_Basket_Library.AssemblyInfo.cs
+C:\Users\Marko\source\repos\Shopping_Basket\Shopping_Basket_Library\obj\Debug\net5.0\Shopping_Basket_Library.csproj.CoreCompileInputs.cache
+C:\Users\Marko\source\repos\Shopping_Basket\Shopping_Basket_Library\obj\Debug\net5.0\Shopping_Basket_Library.dll
+C:\Users\Marko\source\repos\Shopping_Basket\Shopping_Basket_Library\obj\Debug\net5.0\ref\Shopping_Basket_Library.dll
+C:\Users\Marko\source\repos\Shopping_Basket\Shopping_Basket_Library\obj\Debug\net5.0\Shopping_Basket_Library.pdb
+C:\Users\Marko\source\repos\Shopping_Basket\Shopping_Basket_Library\obj\Debug\net5.0\Shopping_Basket_Library.csprojAssemblyReference.cache
