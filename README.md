@@ -1,0 +1,2 @@
+# Typeqast
+ Typeqast test zadatak
